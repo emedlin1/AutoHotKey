@@ -1,1 +1,1 @@
-msgbox % "my ahk version: " A_AhkVersion
+msgbox % "AHK Version: " A_AhkVersion
